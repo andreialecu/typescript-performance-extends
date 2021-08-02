@@ -3,7 +3,7 @@
     "typescript": "^4.3.5"
   },
   "devDependencies": {
-    "@types/mongodb": "^4.0.7",
+    "@types/mongodb": "^3",
     "@types/node": "^16.4.10"
   }
 }
